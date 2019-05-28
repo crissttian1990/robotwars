@@ -1,0 +1,6 @@
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/obj/x86/Debug/RobotWars.csprojResolveAssemblyReference.cache
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/obj/x86/Debug/RobotWars.csproj.CoreCompileInputs.cache
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/bin/Debug/RobotWars.exe
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/bin/Debug/RobotWars.pdb
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/obj/x86/Debug/RobotWars.exe
+/Users/cristianfernandez/Projects/RobotWars/RobotWars/obj/x86/Debug/RobotWars.pdb
